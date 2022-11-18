@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: serif;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    border: 5px solid rgb(240, 210, 172);
+    font-size: 40px;
+    font-family: serif;
+    background-color: antiquewhite;
+
+}
+button{
+    font-size: 30px;
+    cursor: pointer;
+    background-color: rgb(240, 210, 172);
+    border-radius: 10px;    
+}
+button:hover{
+    background-color: antiquewhite;
+}
+input{
+    font-size: 30px;
+    background-color: rgb(240, 210, 172);
+    border-radius: 10px;
+}
+input:hover{
+    background-color: antiquewhite;
+}
+#resultado{
+    margin-bottom: 30px;
+}
